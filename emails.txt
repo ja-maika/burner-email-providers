@@ -1153,6 +1153,7 @@ ether123.net
 ethereum1.top
 ethersports.org
 etlgr.com
+etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
@@ -3399,6 +3400,7 @@ trollproject.com
 tropicalbass.info
 trungtamtoeic.com
 tryalert.com
+tryninja.io
 ts-by-tashkent.cf
 ts-by-tashkent.ga
 ts-by-tashkent.gq
