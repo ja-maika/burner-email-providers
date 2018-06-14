@@ -184,6 +184,7 @@
 8mail.ml
 900k.es
 99experts.com
+99pubblicita.com
 9mail.cf
 9me.site
 9ox.net
@@ -770,6 +771,7 @@ courriel.fr.nf
 courrieltemporaire.com
 coza.ro
 cpsystems.ru
+creazionisa.com
 cr97mt49.com
 crankhole.com
 crankmails.com
@@ -991,6 +993,7 @@ duck2.club
 dudmail.com
 duk33.com
 dukedish.com
+dumoac.net
 dumpandjunk.com
 dump-email.info
 dumpmail.de
@@ -1165,6 +1168,7 @@ evyush.com
 ewa.kr
 example.com
 exi.kr
+existiert.net
 exitstageleft.net
 explodemail.com
 express.net.ua
@@ -1348,6 +1352,7 @@ fux0ringduh.com
 fw2.me
 fw6m0bd.com
 fxnxs.com
+fxprix.com
 fyii.de
 g.ycn.ro
 g4hdrop.us
@@ -1879,6 +1884,7 @@ kusrc.com
 kwift.net
 kwilco.net
 kyal.pl
+l0real.net
 l33r.eu
 l5.ca
 l8oaypr.com
@@ -1896,6 +1902,7 @@ lal.kr
 landmail.co
 laoeq.com
 laoho.com
+larjem.com
 last-chance.pro
 lastmail.co
 lastmail.com
@@ -1953,6 +1960,7 @@ locantospot.top
 locantowsite.club
 locateme10.com
 locomodev.net
+loketa.com
 login-email.cf
 login-email.ga
 login-email.ml
@@ -2003,6 +2011,7 @@ macromaid.com
 magamail.com
 maggotymeat.ga
 magicbox.ro
+magspam.net
 maidlow.info
 mail.aws910.com
 mail.bccto.com
@@ -2311,10 +2320,15 @@ muathegame.com
 muchomail.com
 mucincanon.com
 muehlacker.tk
+muellemail.com
+muellmail.com
 muell.email
 mufux.com
 mugglenet.org
 muimail.com
+müll.email
+müllmail.com
+müllemail.com
 munoubengoshi.gq
 mustbedestroyed.org
 mutant.me
@@ -2412,6 +2426,7 @@ nh3.ro
 nice-4u.com
 nicewoodenbaskets.com
 nicknassar.com
+nickrizos.com
 niepodam.pl
 nie-podam.pl
 nigge.rs
@@ -2490,6 +2505,7 @@ ny7.me
 o.spamtrap.ro
 o060bgr3qg.com
 o2stk.org
+o3enzyme.com
 o7i.net
 oai.asia
 oalsp.com
@@ -2566,6 +2582,7 @@ pagamenti.tk
 pakadebu.ga
 paller.cf
 pancakemail.com
+papierkorb.me
 paplease.com
 parkcrestlakewood.xyz
 parlimentpetitioner.tk
@@ -2641,6 +2658,7 @@ powlearn.com
 poy.kr
 pp.ua
 ppetw.com
+pqoss.com
 predatorrat.cf
 predatorrat.ga
 predatorrat.gq
@@ -2894,6 +2912,7 @@ sexical.com
 sexyalwasmi.top
 sezet.com
 sfmail.top
+sfamo.com
 shapoo.ch
 sharedmailbox.org
 sharklasers.com
@@ -2902,6 +2921,7 @@ shhuut.org
 shieldedmail.com
 shieldemail.com
 shiftmail.com
+shinnemo.com
 shipfromto.com
 shiphazmat.org
 shipping-regulations.com
@@ -3002,6 +3022,7 @@ soon.it
 sosmanga.com
 spa.com
 spaereplease.com
+spam.care
 spam.flu.cc
 spam.igg.biz
 spam.la
@@ -3185,6 +3206,7 @@ tapchicuoihoi.com
 tarzanmail.cf
 tarzanmail.ml
 taskforcetech.com
+taylorventuresllc.com
 tb-on-line.net
 tdf-illustration.com
 teamspeak3.ga
@@ -3330,6 +3352,7 @@ top1mail.ru
 top1post.ru
 top9appz.info
 topinrock.cf
+topikt.com
 topmall.com
 topmall.info
 topmall.org
@@ -3396,6 +3419,7 @@ trendingtopic.cl
 trialmail.de
 trickmail.net
 trillianpro.com
+trimsj.com
 trollproject.com
 tropicalbass.info
 trungtamtoeic.com
@@ -3447,6 +3471,7 @@ ujijima1129.gq
 uk.to
 ukexample.com
 uko.kr
+ultra.fyi
 umail.net
 umy.kr
 undo.it
@@ -3546,6 +3571,7 @@ vpn.st
 vpn33.top
 vps30.com
 vps911.net
+vpslists.com
 vpsorg.pro
 vpsorg.top
 vpstraffic.com
@@ -3743,6 +3769,7 @@ yep.it
 ygroupvideoarchive.com
 ygroupvideoarchive.net
 yhg.biz
+yk20.com
 ymail.net
 ymail.org
 ynmrealty.com
@@ -3871,3 +3898,5 @@ its0k.com
 myself.com
 pdold.com
 xvx.us
+mintemail.com
+cd.mintemail.com
