@@ -581,6 +581,7 @@ breadtimes.press
 breakthru.com
 brefmail.com
 brennendesreich.de
+briefkasten2go.de
 briggsmarcus.com
 britishintelligence.co.uk
 broadbandninja.com
@@ -866,6 +867,10 @@ derluxuswagen.de
 despam.it
 despammed.com
 devnullmail.com
+dev-null.cf
+dev-null.ga
+dev-null.gq
+dev-null.ml
 dextm.ro
 deyom.com
 dfgggg.org
@@ -923,6 +928,7 @@ dko.kr
 dlemail.ru
 dm.w3internet.co.uk
 dm.w3internet.co.ukexample.com
+dma.in-ulm.de
 dmail.kyty.net
 dmarc.ro
 dnsdeer.com
@@ -1061,6 +1067,7 @@ email-fake.ml
 emailfake.nut.cc
 email-fake.tk
 emailfreedom.ml
+emailgenerator.de
 emailgo.de
 emailhearing.com
 emailias.com
@@ -2061,6 +2068,7 @@ mailbidon.com
 mailbiz.biz
 mailblocks.com
 mailblog.biz
+mailbox2go.de
 mailbox52.ga
 mailbox72.biz
 mailbox80.biz
@@ -2195,6 +2203,7 @@ mandraghen.cf
 manifestgenerator.com
 mansiondev.com
 manybrain.com
+manyme.com
 mao.igg.biz
 markmurfin.com
 martyvole.ml
@@ -2606,6 +2615,7 @@ personal-email.ml
 peterdethier.com
 petrzilka.net
 pfui.ru
+phaantm.de
 photo-impact.eu
 photomark.net
 phpbb.uu.gl
@@ -2649,6 +2659,7 @@ porco.gq
 porco.ml
 postacin.com
 postalmail.biz
+postfach2go.de
 postonline.me
 poutineyourface.com
 powered.name
@@ -3098,8 +3109,11 @@ spamtrail.com
 spamtrap.co
 spamtrap.ro
 spamtroll.net
+spamwc.cf
 spamwc.de
 spamwc.ga
+spamwc.gq
+spamwc.ml
 spb.ru
 speed.1s.fr
 speedgaus.net
@@ -3391,6 +3405,7 @@ trash-mail.cf
 trashmail.com
 trash-mail.com
 trashmail.de
+trashmail.gq
 trash-mail.de
 trash-mail.ga
 trash-mail.gq
